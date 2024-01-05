@@ -1,4 +1,8 @@
-# sqlnaut
+# `sqlnaut`
+
+`sqlnaut` is a python package that allows you to view and explore SQLite databases as a folder of CSVs.
+Each table is represented by a single CSV.
+Because it's built on top of FUSE, you can use all standard bash utilities with it.
 
 ## Installation
 
